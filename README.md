@@ -96,5 +96,6 @@ class CustomItemTouchHelperCallback(private var listener: CustomItemTouchHelperL
 ```
 
 Example Result
+
 <img width="387" alt="Screen Shot 2565-04-23 at 20 59 05" src="https://user-images.githubusercontent.com/62892558/164909122-90434aff-3860-4143-87bf-862ae8991d9a.png">
 
